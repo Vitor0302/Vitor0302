@@ -30,5 +30,6 @@
   <a href="mailto:victor.cabral@aluno.ufop.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style-for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/victor-cabral-88a91a275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/Vitor0302/Vitor0302/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/Vitor0302/Vitor0302/blob/output/github-contribution-grid-snake.svg)
