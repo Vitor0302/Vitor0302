@@ -2,6 +2,9 @@
 
 - 🔭 Atualmente trabalho com Front-End
 - 🌱 Estudando Back-End
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor0302)](https://github.com/Vitor0302/github-readme-stats)
+
+<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Vitor0302&show_icons=true"/>
+
+<img alt="top langs" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0302&layout=compact"/>
