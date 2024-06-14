@@ -8,7 +8,7 @@
 <a href="https://github.com/Vitor0302">
 <img alt="my stats" align="left" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor0302&show_icons=true&theme=dracula"/>
 
-<img alt="top langs" align="left" width="48%" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0302&layout=compact&theme=dracula"/>
+<img alt="top langs" align="left" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0302&layout=compact&theme=dracula"/>
 </div>
 
 ##
